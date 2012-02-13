@@ -1,0 +1,10 @@
+
+
+
+SetEnv DB_USER root
+
+SetEnv DB_PASS
+
+SetEnv DB_DSN mysql:dbname=harl0011;host=localhost
+
+
